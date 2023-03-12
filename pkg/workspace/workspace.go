@@ -13,10 +13,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/gvallee/go_software_build/pkg/builder"
-	"github.com/gvallee/go_util/pkg/module"
-	"github.com/gvallee/go_util/pkg/util"
-	"github.com/gvallee/kv/pkg/kv"
+	"github.com/BTMichalowicz/go_software_build/pkg/builder"
+	"github.com/BTMichalowicz/go_util/pkg/module"
+	"github.com/BTMichalowicz/go_util/pkg/util"
+	"github.com/BTMichalowicz/kv/pkg/kv"
 )
 
 const (

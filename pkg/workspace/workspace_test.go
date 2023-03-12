@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gvallee/go_util/pkg/util"
+	"github.com/BTMichalowicz/go_util/pkg/util"
 )
 
 func TestCreate(t *testing.T) {
